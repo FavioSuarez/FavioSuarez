@@ -1,7 +1,7 @@
 # Favio Suárez
-Informatics Engineering student at **Pontificia Universidad Católica del Perú (PUCP)**, interested in software development, software architecture, machine learning, and data engineering.
+Informatics Engineering student at **Pontificia Universidad Católica del Perú (PUCP)**, interested in data analytics, data engineering, machine learning and software development.
 
-Currently focused on strengthening my skills through software enginnering projects involving web development, REST APIs, databases, algorithms, and system design.
+Currently focused on strengthening my skills in **Python, SQL, data analysis, databases and statistical methods**, while applying my software engineering background to data-driven projects
 
 ## About Me
 - Informatics Engineering student at PUCP
@@ -10,12 +10,15 @@ Currently focused on strengthening my skills through software enginnering projec
 - Currently exploring machine learning and data engineering
 
 ## Technologies
-**Languages:** 
-Java, C#, Python, SQL, JavaScript, C, C++
+**Data & Programming:**
+Python, SQL, MySQL
+
+**Programming Languages:**
+Java, C#, JavaScript, C, C++
+
 **Development:** 
 Blazor, REST APIs, Git, Github
-**Databases:** 
-MySQL, SQL
+
 **Architecture & Modeling:** 
 Layared Architecture, Modular Monolith, arc42, UML, ERD, DFD
 
@@ -36,12 +39,32 @@ Main features:
 
 [View repository](https://github.com/FavioSuarez/ZAPGames-ecommerce)
 
+##Budget Management System - Data & Process Modeling
+
+Analysis and design of a budget management system for a manufacturing company, based on the study of its real budgeting process.
+
+The project involved requirements elicitation through interviews, business process analysis, conceptual data modeling, and the design of system prototypes.
+
+**Main work:**
+- Requirements elicitations and stakeholder interviews
+- Business process analysis and documentations
+- Conceptual data model and Entity-Relationship Diagram (ERD)
+- Entity and attribute data dictionaries
+- Data Flow Diagrams (DFD)
+- Event identification and process modeling
+- Wireframes for budget management and reporting modules
+
+**Tools & Conceptos: ** Requirements Analysis · ERD · DFD · Data Modeling · Process Analysis · Wireframing
+
+[View repository](https://github.com/FavioSuarez)
+
 ## Current Interests:
+
+- Data Analytics
+- Data Engineering
+- Machine Learning
 - Software Engineering
 - Backend Development
-- Software Architecture
-- Machine Learning
-- Data Engineering
 
 ## Contact:
 Email: faviosuarezrique@gmail.com
