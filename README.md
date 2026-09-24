@@ -41,7 +41,7 @@ The project involved requirements elicitation through interviews, business proce
 
 **Tools & Conceptos: ** Requirements Analysis · ERD · DFD · Data Modeling · Process Analysis · Wireframing
 
-[View repository](https://github.com/FavioSuarez)
+[View repository](https://github.com/FavioSuarez/Budget-Management-System-Analysis)
 
 ### ZAP Games E-Commerce:
 Full-stack e-commerce platform for video games, consoles, and accessories.
