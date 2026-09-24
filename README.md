@@ -23,21 +23,6 @@ Blazor, REST APIs, Git, Github
 Layared Architecture, Modular Monolith, arc42, UML, ERD, DFD
 
 ## Projects
-### ZAP Games E-Commerce:
-Full-stack e-commerce platform for video games, consoles, and accessories.
-
-Developed with **Java, C#, Blazor, REST APIs, and MySQL**.
-
-Main features:
-
-- Product management
-- Shopping cart
-- Checkout
-- Order management
-- Stock management
-- Administrative features
-
-[View repository](https://github.com/FavioSuarez/ZAPGames-ecommerce)
 
 ### Budget Management System - Data & Process Modeling
 
@@ -57,6 +42,22 @@ The project involved requirements elicitation through interviews, business proce
 **Tools & Conceptos: ** Requirements Analysis · ERD · DFD · Data Modeling · Process Analysis · Wireframing
 
 [View repository](https://github.com/FavioSuarez)
+
+### ZAP Games E-Commerce:
+Full-stack e-commerce platform for video games, consoles, and accessories.
+
+Developed with **Java, C#, Blazor, REST APIs, and MySQL**.
+
+Main features:
+
+- Product management
+- Shopping cart
+- Checkout
+- Order management
+- Stock management
+- Administrative features
+
+[View repository](https://github.com/FavioSuarez/ZAPGames-ecommerce)
 
 ## Current Interests:
 
