@@ -39,7 +39,7 @@ Main features:
 
 [View repository](https://github.com/FavioSuarez/ZAPGames-ecommerce)
 
-## Budget Management System - Data & Process Modeling
+### Budget Management System - Data & Process Modeling
 
 Analysis and design of a budget management system for a manufacturing company, based on the study of its real budgeting process.
 
